@@ -4,6 +4,7 @@
 </p>
 <p align="center">
   <i>Team Ping 2025</i>
+</p>
 <p align="center">
 <table>
   <tr>
