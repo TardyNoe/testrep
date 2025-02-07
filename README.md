@@ -29,5 +29,14 @@
       <br/>
       💻 🎉
     </td>
+    <td align="center">
+      <a href="https://fr.linkedin.com/in/victor-ducray">
+        <img src="Contributors/VictorDucray.jpg" width="100px;" alt="VictorDucray"/>
+        <br/>
+        <sub><b>Victor Ducray</b></sub>
+      </a>
+      <br/>
+      💻 🎉
+    </td>
   </tr>
 </table>
