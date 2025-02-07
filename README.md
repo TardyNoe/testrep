@@ -1,5 +1,10 @@
 ## Contributors ✨
-![Equipe ping 2025](Contributors/ping2025.png)
+<p align="center">
+  <img src="Contributors/ping2025.png" alt="Group Photo" width="800px">
+</p>
+<p align="center">
+  <i>Team Ping 2025</i>
+
 <table>
   <tr>
     <td align="center">
