@@ -9,7 +9,6 @@
         <sub><b>Noé TARDY</b></sub>
       </a>
       <br/>
-      💻 🎉
     </td>
     <td align="center">
       <a href="https://fr.linkedin.com/in/thomas-beyet">
