@@ -17,7 +17,6 @@
         <sub><b>Thomas Beyet</b></sub>
       </a>
       <br/>
-      💻 🎉
     </td>
     <td align="center">
       <a href="https://fr.linkedin.com/in/paul-garait-a00447160">
@@ -26,7 +25,6 @@
         <sub><b>Paul Garait</b></sub>
       </a>
       <br/>
-      💻 🎉
     </td>
     <td align="center">
       <a href="https://fr.linkedin.com/in/victor-ducray">
@@ -35,7 +33,6 @@
         <sub><b>Victor Ducray</b></sub>
       </a>
       <br/>
-      💻 🎉
     </td>
      </td>
     <td align="center">
@@ -45,7 +42,6 @@
         <sub><b>Maxime Deville</b></sub>
       </a>
       <br/>
-      💻 🎉
     </td>
   <td align="center">
       <a href="https://fr.linkedin.com/in/paul-bligny-331141151">
@@ -54,7 +50,6 @@
         <sub><b>Paul Bligny</b></sub>
       </a>
       <br/>
-      💻 🎉
     </td>
   </tr>
 </table>
