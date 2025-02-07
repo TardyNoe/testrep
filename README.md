@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <i>Team Ping 2025</i>
-
+<p align="center">
 <table>
   <tr>
     <td align="center">
@@ -58,3 +58,4 @@
     </td>
   </tr>
 </table>
+</p>
