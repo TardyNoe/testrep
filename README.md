@@ -20,5 +20,14 @@
       <br/>
       💻 🎉
     </td>
+    <td align="center">
+      <a href="https://fr.linkedin.com/in/paul-garait-a00447160">
+        <img src="Contributors/PaulGarait.jpg" width="100px;" alt="PaulGarait"/>
+        <br/>
+        <sub><b>Paul Garait</b></sub>
+      </a>
+      <br/>
+      💻 🎉
+    </td>
   </tr>
 </table>
