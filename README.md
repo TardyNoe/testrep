@@ -1,5 +1,5 @@
 ## Contributors ✨
-
+![Equipe ping 2025](Contributors/ping2025.png)
 <table>
   <tr>
     <td align="center">
